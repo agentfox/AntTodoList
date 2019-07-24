@@ -1,2 +1,0 @@
-# AntTodoList
-Created with CodeSandbox
